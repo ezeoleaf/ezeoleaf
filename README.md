@@ -2,7 +2,7 @@
 
 Technical Lead at [Braintly](https://github.com/Braintly)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ezeoleaf&count_private=true)](https://github.com/ezeoleaf)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ezeoleaf&count_private=true&show_icons=true&theme=react)](https://github.com/ezeoleaf)
 
 ### Find me elsewhere 🌎
 
