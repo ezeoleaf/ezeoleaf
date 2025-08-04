@@ -2,13 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=ezeoleaf&style=for-the-badge)
 
-Backend Engineer at [Baffin Bay Networks](https://github.com/baffinbay)
+Lead Backend Engineer at [Baffin Bay Networks](https://github.com/baffinbay)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ezeoleaf&count_private=true&show_icons=true&theme=react)](https://github.com/ezeoleaf)
 
 ### Find me elsewhere 🌎
 
-[📸: Instagram](https://instagram.com/ezeoleaf) - _Amateur #hiker & #baker_ <br>
-[🐦: Twitter](https://twitter.com/ezeoleaf) <br>
+[🐦: X](https://twitter.com/ezeoleaf) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/ezeoleaf) <br>
 [📫: Email](mailto:ezeoleaf@gmail.com)
